@@ -2,8 +2,6 @@
 
 **Веб-приложение для автоматизации продаж музыкальных инструментов и аксессуаров.**
 
-[![Status](https://img.shields.io/badge/status-in%20development-blue)](https://github.com/your_username/MusicStore)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/your_username/MusicStore/blob/main/LICENSE)
 
 ---
 
